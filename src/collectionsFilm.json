@@ -1,0 +1,28 @@
+{
+  "collections": [
+    {
+      "name": "Chala sport",
+      "year_produce": 2013,
+      "name_rejiser": "Emil Esenaliev",
+      "name_akters": "Emil Esenaliev , Samat Dolotbakov"
+    },
+    {
+      "name": "Salam New York",
+      "year_produce": 2015,
+      "name_rejiser": "Asan Asanaliev",
+      "name_akters": "Bek Sultanov , Almaz Bektursunov"
+    },
+    {
+      "name": "Super Kudalar",
+      "year_produce": 2019,
+      "name_rejiser": "Emil Esenaliev",
+      "name_akters": "Emil Esenaliev , Kalys Bekmenbetov"
+    },
+    {
+      "name": "ASport Muras",
+      "year_produce": 2020,
+      "name_rejiser": "Kalys bekmenbetov",
+      "name_akters": "Asan , Uson , Bek"
+    }
+  ]
+}
